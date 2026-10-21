@@ -1,0 +1,413 @@
+[
+  {
+    "university_name": "Polytechnic University of the Philippines",
+    "campus_location": "Sta. Mesa, Manila, Metro Manila",
+    "identity_source": "configuration; verify campus applicability of each source",
+    "retrieved_at_utc": "2026-10-21T14:36:18.119865+00:00",
+    "review_required": true,
+    "source_notes": [
+      "PUPCET source inspected on 2026-10-21: introductory text labels AY 2026-2027, but qualification text references AY 2024-2025. Confirm intake applicability with PUP before using these statements.",
+      "The program list is an institutional listing. Open University System and diploma entries are excluded; verify individual on-campus offerings before publishing."
+    ],
+    "programs": [
+      {
+        "name": "Bachelor of Science in Accountancy (BSA)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Management Accounting (BSMA)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Business Administration Major in Financial Management (BSBAFM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Architecture (BS-ARCH)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Interior Design (BSID)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Environmental Planning (BSEP)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in English (ABE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Filipino (ABF)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy (ABPHILO)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Theater Arts (ABTA)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Business Administration major in Marketing Management (BSBA-MM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Business Administration major in Human Resource Development Management (BSBA-HRDM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Entrepreneurship (BSEntrep)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Office Administration (BSOA)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor in Advertising and Public Relation (BAPR)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Journalism (ABJ)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts on Broadcasting (BA Broadcasting)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Communication Research (ABCR)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Computer Science (BSCS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Information Technology (BSIT)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Technology and Livelihood Education (BTLEd) major in Home Economics, Industrial Arts, Information and Communication Technology",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Library and Information Science (BLIS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Secondary Education (BSEd) major in English, Mathematics, Science, Filipino, Social Studies",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Elementary Education (BEEd)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Early Childhood Education (BECEd)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Civil Engineering (BSCE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Computer Engineering (BSCpE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Electrical Engineering (BSEE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Electronics Engineering (BSECE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering (BSIE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Mechanical Engineering (BSME)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Railway Engineering (formerly Bachelor of Science in Railway Engineering and Management) (BSRE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor in Physical Education (BPE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Political Science (BAPS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Political Economy (BAPE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in International Studies (BAIS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Public Administration (BPA)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Sociology (ABS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Economics (BSE)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in History (BAH)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Arts in Philippine Studies (BAPHS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Psychology (BSPSY)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor in Human Services (BHS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Social Work (BSSW)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor in Applied Statistics (BAS)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Applied Mathematics (BSAM) major in Actuarial Mathematics",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Biology (BSBIO)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Chemistry (BSCHEM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Food Technology (BSFT)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Mathematics (BSM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Nutrition and Dietetics (BSND)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Physics (BSP)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Tourism Management (BSTM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor in Transportation Management (BTM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      },
+      {
+        "name": "Bachelor of Science in Hospitality Management (BSHM)",
+        "strand_alignment": null,
+        "source_url": "https://www.pup.edu.ph/academic/undergrad",
+        "extraction_method": "selector_lines"
+      }
+    ],
+    "tuition_estimates": [],
+    "admission_requirements": [
+      {
+        "text": "IMPORTANT: Online registration and application shall be done strictly by the applicant. Please prepare the scanned , clear copies of the following items saved as JPEG ( .jpg or .jpeg and file size is not more than 300 kilobytes ) in your computer, USB or device before applying online : Your 2 x 2-inch colored photo with name tag ( read photo guidelines ) Your Grade 11 report card showing your complete name, LRN, and GWA for First Semester and GWA for Second Semester",
+        "source_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "extraction_method": "selector",
+        "source_context": [
+          "Online application for the PUP College Entrance Test for the First Semester, Academic Year 2026-2027 ."
+        ]
+      },
+      {
+        "text": "A Grade 12 student expected to graduate at the end of AY 2024-2025; and those who graduated from K-12 pilot schools and have not enrolled in any technical/diploma/degree programs after graduation with a GWA of not lower than 82%",
+        "source_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "extraction_method": "selector",
+        "source_context": [
+          "Online application for the PUP College Entrance Test for the First Semester, Academic Year 2026-2027 ."
+        ]
+      },
+      {
+        "text": "Passer of PEPT/ALS or NFEA & E Program following DepEd regulations and therefore certified eligible for admission to college/tertiary level",
+        "source_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "extraction_method": "selector",
+        "source_context": [
+          "Online application for the PUP College Entrance Test for the First Semester, Academic Year 2026-2027 ."
+        ]
+      }
+    ],
+    "entrance_exam_coverage": [],
+    "application_deadlines": [],
+    "application_status": [
+      {
+        "text": "Sta. Mesa, Manila Application is closed",
+        "source_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "extraction_method": "selector",
+        "source_context": [
+          "Online application for the PUP College Entrance Test for the First Semester, Academic Year 2026-2027 ."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "requested_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "final_url": "https://www.pup.edu.ph/iapply/pupcet",
+        "status": "fetched",
+        "fields": [
+          "admission_requirements",
+          "entrance_exam_coverage",
+          "application_deadlines",
+          "application_status",
+          "tuition_estimates"
+        ]
+      },
+      {
+        "requested_url": "https://www.pup.edu.ph/academic/undergrad",
+        "final_url": "https://www.pup.edu.ph/academic/undergrad",
+        "status": "fetched",
+        "fields": [
+          "programs"
+        ]
+      }
+    ],
+    "errors": [],
+    "missing_fields": [
+      "tuition_estimates",
+      "entrance_exam_coverage",
+      "application_deadlines"
+    ],
+    "collection_status": "partial"
+  }
+]

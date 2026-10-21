@@ -1,0 +1,52 @@
+[
+  {
+    "name": "University of the Philippines Diliman",
+    "campus_location": "Diliman, Quezon City, Metro Manila",
+    "pages": [
+      {"url": "https://upcat.up.edu.ph/", "fields": ["admission_requirements", "entrance_exam_coverage", "application_deadlines", "application_status", "tuition_estimates"]},
+      {"url": "https://our.upd.edu.ph/acadprog.php", "fields": ["programs"]}
+    ]
+  },
+  {
+    "name": "Polytechnic University of the Philippines",
+    "campus_location": "Sta. Mesa, Manila, Metro Manila",
+    "source_notes": [
+      "PUPCET source inspected on 2026-10-21: introductory text labels AY 2026-2027, but qualification text references AY 2024-2025. Confirm intake applicability with PUP before using these statements.",
+      "The program list is an institutional listing. Open University System and diploma entries are excluded; verify individual on-campus offerings before publishing."
+    ],
+    "pages": [
+      {
+        "url": "https://www.pup.edu.ph/iapply/pupcet",
+        "fields": ["admission_requirements", "entrance_exam_coverage", "application_deadlines", "application_status", "tuition_estimates"],
+        "content_selector": ".page-content",
+        "context_selector": ".page-content > p:has(strong)",
+        "selectors": {
+          "admission_requirements": ".page-content .impt1, .page-content > ol > li",
+          "application_status": "#scheds tr:has(td:first-child:-soup-contains('Sta. Mesa, Manila'))"
+        }
+      },
+      {
+        "url": "https://www.pup.edu.ph/academic/undergrad",
+        "fields": ["programs"],
+        "content_selector": ".page-content",
+        "program_line_selector": ".page-content > p:not(:has(strong:-soup-contains('Open University System'))):not(:has(strong:-soup-contains('Institute of Technology')))"
+      }
+    ]
+  },
+  {
+    "name": "De La Salle University",
+    "campus_location": "Taft Avenue, Malate, Manila, Metro Manila",
+    "pages": [
+      {"url": "https://www.dlsu.edu.ph/admissions/undergraduate/freshmen-procedures/", "fields": ["admission_requirements", "entrance_exam_coverage", "application_deadlines", "application_status", "tuition_estimates"]},
+      {"url": "https://www.dlsu.edu.ph/admissions/undergraduate/degree-programs/", "fields": ["programs"]}
+    ]
+  },
+  {
+    "name": "University of Santo Tomas",
+    "campus_location": "España Boulevard, Sampaloc, Manila, Metro Manila",
+    "pages": [
+      {"url": "https://ofad.ust.edu.ph/", "fields": ["admission_requirements", "entrance_exam_coverage", "application_deadlines", "application_status", "tuition_estimates"]},
+      {"url": "https://www.ust.edu.ph/academics/programs/", "fields": ["programs"]}
+    ]
+  }
+]
