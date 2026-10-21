@@ -1,4 +1,36 @@
-# UniMatch PH admissions data collector
+# UniMatch PH
+
+A college admissions aggregator prototype for Metro Manila, with a Python data
+collector, Flask backend, SQLite database, and responsive website.
+
+## Run the website on your laptop
+
+Download and extract the latest repository ZIP, then open a terminal **inside the
+folder containing `run_web.py`**. On CachyOS/Linux:
+
+```bash
+python -m venv .venv
+.venv/bin/python -m pip install -r requirements-web.txt
+.venv/bin/python run_web.py
+```
+
+Open the address printed by the server in your browser. Keep that terminal open;
+press Ctrl+C to stop the website. No email, API key, Node.js installation, or live
+university requests are needed to explore the prototype.
+
+The site includes university profiles, program search and topic filters, school
+comparison, and a shortlist saved in your browser. It starts with the collected
+PUP sample (55 program entries). UP Diliman, DLSU Manila and UST are directory
+entries awaiting collection. All admissions evidence remains marked for review;
+fees and strand eligibility are not invented. Scholarships are excluded.
+
+![UniMatch PH prototype interface](docs/prototype-desktop.png)
+
+See the [website guide](webapp/README.md) for the backend architecture, API,
+importing new scraper results, and testing. The original collector instructions
+follow below.
+
+## Admissions data collector
 
 A Python 3.10+ research pipeline for collecting **public institutional information**
 from explicitly configured university pages. It uses Requests and BeautifulSoup for
