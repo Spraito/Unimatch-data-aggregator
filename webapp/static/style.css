@@ -1244,6 +1244,15 @@ main {
   font-size: 11px;
   margin-bottom: 9px;
 }
+.program-review-notes {
+  margin: 14px 0;
+  font-size: 11px;
+  line-height: 1.8;
+  color: #63724f;
+}
+.program-review-notes summary {
+  cursor: pointer;
+}
 .toast {
   position: fixed;
   bottom: 25px;

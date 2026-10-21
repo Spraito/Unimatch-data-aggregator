@@ -38,11 +38,11 @@ def test_explore_search_detail_save_compare_and_mobile(live_site):
             page.on("request", lambda request: external_requests.append(request.url) if not request.url.startswith(live_site) else None)
             page.goto(live_site, wait_until="networkidle")
             api.expect(page.locator(".school-card")).to_have_count(4)
-            api.expect(page.locator("#stat-programs")).to_have_text("55")
+            api.expect(page.locator("#stat-programs")).to_have_text("312")
 
             page.locator("#search").fill("computer science")
-            api.expect(page.locator(".school-card")).to_have_count(1)
-            api.expect(page.locator(".school-card h3")).to_contain_text("Polytechnic")
+            api.expect(page.locator(".school-card")).to_have_count(2)
+            assert {card.get_attribute('data-school-card') for card in page.locator('.school-card').all()} == {'dlsu-manila', 'pup-sta-mesa'}
             page.locator("#search").fill("no-such-school")
             api.expect(page.locator(".empty-state")).to_be_visible()
             page.get_by_role("button", name="Clear filters", exact=True).click()
@@ -68,6 +68,16 @@ def test_explore_search_detail_save_compare_and_mobile(live_site):
             api.expect(page.locator(".detail-program-list li")).to_have_count(1)
             page.get_by_role("button", name="Close details").click()
 
+            page.locator('[data-school-card="dlsu-manila"] [data-action="details"]').click()
+            api.expect(page.locator("#dialog-title")).to_have_text("De La Salle University")
+            api.expect(page.locator("#detail-panel")).to_contain_text("no numeric PHP amounts")
+            page.get_by_role("tab", name="Programs (257)").click()
+            page.locator("#detail-program-search").fill("Software Technology")
+            api.expect(page.locator(".detail-program-list li")).to_have_count(1)
+            assert page.locator('.detail-program-list a').get_attribute('href').startswith('https://old.dlsu.edu.ph/')
+            page.get_by_role("button", name="Close details").click()
+            api.expect(page.locator('[data-school-card="dlsu-manila"]')).to_contain_text("Amount not available")
+
             for school in ("pup-sta-mesa", "dlsu-manila", "ust-manila"):
                 page.locator(f'[data-school-card="{school}"] [data-action="compare"]').click()
                 api.expect(page.locator(f'[data-school-card="{school}"] [data-action="compare"]')).to_have_attribute("aria-pressed", "true")
@@ -85,7 +95,7 @@ def test_explore_search_detail_save_compare_and_mobile(live_site):
             assert all("Computing" in text for text in page.locator(".program-card .tag").all_text_contents())
             page.locator("#topic").select_option("")
             page.get_by_role("button", name="Next", exact=True).click()
-            api.expect(page.locator("#pagination")).to_contain_text("Page 2 of 5")
+            api.expect(page.locator("#pagination")).to_contain_text("Page 2 of 26")
 
             page.locator('.nav-item[data-view="saved"]').click()
             api.expect(page.locator(".school-card")).to_have_count(1)

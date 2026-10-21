@@ -1,0 +1,1614 @@
+[
+  {
+    "university_name": "De La Salle University",
+    "campus_location": "Taft Avenue, Malate, Manila, Metro Manila",
+    "identity_source": "configuration; verify campus applicability of each source",
+    "retrieved_at_utc": "2026-10-21T17:05:44.521174+00:00",
+    "review_required": true,
+    "source_notes": [],
+    "programs": [
+      {
+        "name": "Bachelor of Science in Computer Science Major in Software Technology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Computer Science Major in Network and Information Security",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Computer Science, Major in Computer Systems Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Information Systems",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Information Technology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Computer Science and Master of Science in Computer Science Bachelor of Science in Information Security",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Information Security",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Early Childhood Education",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Secondary Education Major in English",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Secondary Education Major in Science with specialization in Biology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Secondary Education Major in Science with specialization in Chemistry",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Secondary Education Major in Science with specialization in Physics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Secondary Education Major in Mathematics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in English Language Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor in Human Services",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Behavioral Sciences, Major in Organizational and Social Systems Development",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Development Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in History",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies, Major in American Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies, Major in European Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies, Major in Japanese Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature Major in Creative Writing",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature Major in Literary and Cultural Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philippine Studies, Major in Filipino in Mass Media (AB-PHS)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Political Science",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Communication Arts",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Organizational Communication",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Psychology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Psychology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Sociology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Behavioral Sciences major in Organizational and Social Systems Development and Master of Arts in Behavioral Sciences",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Sports Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts (AB) in Behavioral Sciences major in Organizational and Social Systems Development and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Development Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in History and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Creative Writing and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Literature major in Literary and Cultural Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Organizational Communication and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Philosophy and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Political Science and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Psychology and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB major in Communication Arts and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in American Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Chinese Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in European Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in International Studies major in Japanese Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Southeast Asian Studies and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "AB in Philippine Studies major in Filipino in Mass Media and BS in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Philosophy and Artificial Intelligence and Bachelor of Science in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Literature major in Literature Across the Professions and Bachelor of Science in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biochemistry",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biology Major in Medical Biology (BS BIO-MED)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biology Major in Systematics and Ecology (BS BIO-SEC)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biology Major in Molecular Biology and Biotechnology (BS BIO-MBB)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Chemistry",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Chemistry minor in Business Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Human Biology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Mathematics with specialization in Business Application",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Statistics major in Actuarial Science",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "BS in Physics Minor in Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "BS in Physics Minor in Finance",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "BS in Physics with specialization in Materials Science",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Physics with Specialization in Medical Instrumentation",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Premed Physics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Animal Biology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Statistics Major in Data Science",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Mathematics with Specialization in Data Science",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Chemical Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Civil Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Computer Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Electronics Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering with specialization in Information Technology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering with specialization in Service Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering (Honors) and Master of Science in Industrial Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Manufacturing and Robotics Engineering with specialization in Industrial Robotics Systems",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Manufacturing and Robotics Engineering with specialization in Human Robot Interaction",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Mechanical Engineering with Specialization in Mechatronics Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Mechanical Engineering (Honors) with specialization in Mechatronics Engineering and Master of Science in Mechanical Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Chemical Engineering (Honors) and Master of Science in Chemical Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Civil Engineering (Honors) and Master of Science in Civil Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Electronics Engineering (Honors) and Master of Science in Electronics and Communications Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Manufacturing Engineering and Management with specialization in Mechatronics and Robotics Engineering and Master of Science in Manufacturing Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Entrepreneurship",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Interdisciplinary Business Studies",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Management Accounting with Specialization in Business Analytics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Business Management with specialization in Business Analytics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics (Honors) and Master of Science in Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics Major in Industrial Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics Major in Financial Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics (no declared specialization)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Development Economics and Policy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Health Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Behavioral Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Economics wtih Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Economics with Business Analytics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics with specialization in Computational Economics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Accountancy",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Advertising Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Applied Corporate Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Business Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Legal Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Management of Financial Institutions",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Bachelor of Science in Marketing Management",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Legal Studies and Sustainable Development (first 2 years in Manila, second 2 years will be taken at the Rufino Campus)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Computer Science (Challenge-Based Learning)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Information Technology (Challenge-Based Learning)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Interactive Entertainment major in Game Development (2 years in Manila, 2 years in Laguna)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Interactive Entertainment major in Game Art and Design (2 years in Manila, 2 years in Laguna)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Data Science (2 years in Laguna, 2 years in Manila)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Chemistry major in Food Science (2 years in Manila, 2 years in Laguna)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biology Major in Medical Biology",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Physics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Biomedical Engineering (2 years in Manila, 2 years in Laguna)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Industrial Engineering with specialization in Data Analytics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Aeronautical Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Mobility Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "BS in Entrepreneurship (Challenge Based Learning)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Financial Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Management Accounting with specialization in Business Analytics",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Applied Economics and Data Science> (2 years in Laguna, 2 years in Manila)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Science in Materials Science and Engineering",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      },
+      {
+        "name": "Bachelor of Arts in Legal Studies and Sustainable Development (first 2 years in Laguna, second 2 years will be taken at the Rufino Campus)",
+        "strand_alignment": null,
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "extraction_method": "heuristic"
+      }
+    ],
+    "tuition_estimates": [
+      {
+        "text": "Admission Results First-Year College Admission Application Results AY 2024 – 2025 FAQs for First-Year College Confirmation and Enrollment for AY 2023-2024 Crediting Guidelines for Connect-Ed Schools Requirements for Confirmation, T1 AY 2024-2025 Schedules and Procedures Lasallian Examination for Advance Placement (LEAP) Projected Tuition and Fees of Incoming First-Year College for AY2025-2026 First-Year College Enrollment Confirmation for ID124 (TERM 3 AY 2024-2025) Transfer and Second Undergraduate Degree Enrollment Confirmation for ID124 (TERM 3 AY 2024-2025)",
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/freshmen-procedures/",
+        "extraction_method": "heuristic",
+        "amounts": [],
+        "currency": null,
+        "basis": "unspecified_or_mixed",
+        "scope": "source page; program applicability requires review"
+      },
+      {
+        "text": "Projected Tuition and Fees of Incoming First-Year College for AY2025-2026",
+        "source_url": "https://old.dlsu.edu.ph/admissions/undergraduate/freshmen-procedures/",
+        "extraction_method": "heuristic",
+        "amounts": [],
+        "currency": null,
+        "basis": "unspecified_or_mixed",
+        "scope": "source page; program applicability requires review"
+      }
+    ],
+    "admission_requirements": [],
+    "entrance_exam_coverage": [],
+    "application_deadlines": [],
+    "application_status": [],
+    "sources": [
+      {
+        "requested_url": "https://www.dlsu.edu.ph/admissions/undergraduate/freshmen-procedures/",
+        "final_url": "https://old.dlsu.edu.ph/admissions/undergraduate/freshmen-procedures/",
+        "status": "fetched",
+        "fields": [
+          "admission_requirements",
+          "entrance_exam_coverage",
+          "application_deadlines",
+          "application_status",
+          "tuition_estimates"
+        ]
+      },
+      {
+        "requested_url": "https://www.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "final_url": "https://old.dlsu.edu.ph/admissions/undergraduate/degree-programs/",
+        "status": "fetched",
+        "fields": [
+          "programs"
+        ]
+      }
+    ],
+    "errors": [],
+    "missing_fields": [
+      "admission_requirements",
+      "entrance_exam_coverage",
+      "application_deadlines",
+      "application_status"
+    ],
+    "collection_status": "partial"
+  }
+]

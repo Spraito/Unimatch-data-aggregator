@@ -19,10 +19,22 @@ press Ctrl+C to stop the website. No email, API key, Node.js installation, or li
 university requests are needed to explore the prototype.
 
 The site includes university profiles, program search and topic filters, school
-comparison, and a shortlist saved in your browser. It starts with the collected
-PUP sample (55 program entries). UP Diliman, DLSU Manila and UST are directory
+comparison, and a shortlist saved in your browser. A new database includes PUP's
+55 program entries and the user-supplied DLSU sample (257 indexed titles from
+258 raw rows), for 312 searchable entries. UP Diliman and UST remain directory
 entries awaiting collection. All admissions evidence remains marked for review;
 fees and strand eligibility are not invented. Scholarships are excluded.
+
+If you already used the earlier prototype, add the DLSU sample to your existing
+database explicitly, then refresh the website:
+
+```bash
+.venv/bin/python -m flask --app webapp import-data data/dlsu/unimatch_ph_raw_data.json
+```
+
+Read the [DLSU dataset notes](data/dlsu/README.md): its source catalog includes
+combined degrees, multiple campuses and some extraction artifacts. The fee
+references contain no actual tuition amounts.
 
 ![UniMatch PH prototype interface](docs/prototype-desktop.png)
 

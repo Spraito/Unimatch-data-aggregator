@@ -1,6 +1,7 @@
 """SQLite persistence and transactional imports of the scraper's JSON exports."""
 import hashlib
 import json
+import math
 import re
 import sqlite3
 from pathlib import Path
@@ -69,6 +70,51 @@ def topic_for(name):
     return "Arts & society"
 
 
+def tuition_amount_count(entries):
+    """Count explicit numeric ranges, not headings or links mentioning fees."""
+    count = 0
+    for entry in entries:
+        amounts = entry.get("amounts", [])
+        if not isinstance(amounts, list):
+            continue
+        for amount in amounts:
+            if not isinstance(amount, dict):
+                continue
+            low, high = amount.get("min_php"), amount.get("max_php")
+            if (all(isinstance(v, (int, float)) and not isinstance(v, bool) and math.isfinite(v)
+                    for v in (low, high)) and 0 <= low <= high):
+                count += 1
+    return count
+
+
+def collection_notes(record):
+    """Annotate evidence without rewriting uploaded text or guessing missing facts."""
+    notes = list(record.get("source_notes", []))
+    names = [" ".join(p["name"].split()) for p in record.get("programs", [])]
+    duplicate_count = len(names) - len({name.casefold() for name in names})
+    if duplicate_count:
+        notes.append(f"The raw export contains {duplicate_count} repeated program name(s) after whitespace/case normalization. The searchable index keeps one entry per normalized title; original files are unchanged.")
+    legacy_hosts = set()
+    for source in record.get("sources", []):
+        url = safe_url(source.get("final_url") or source.get("requested_url"))
+        if url and urlsplit(url).hostname.startswith("old."):
+            legacy_hosts.add(urlsplit(url).hostname)
+    if legacy_hosts:
+        notes.append(f"Recorded sources use a legacy hostname ({', '.join(sorted(legacy_hosts))}). Current intake applicability has not been verified; check academic-year references against the university's current admissions pages.")
+    fees = record.get("tuition_estimates", [])
+    if fees and not tuition_amount_count(fees):
+        notes.append("Tuition evidence contains references or headings but no numeric PHP amounts. A fee reference is not a tuition estimate; no cost per semester is available from this export.")
+    other_campuses = [place for place in ("Laguna", "Rufino") if any(re.search(rf"\b{place}\b", name, re.I) for name in names)
+                      and place.casefold() not in record["campus_location"].casefold()]
+    if other_campuses:
+        notes.append(f"Some program titles refer to {', '.join(other_campuses)} or multi-campus pathways. The configured university address does not establish that every entry is offered entirely at that campus.")
+    if any(re.search(r"\bMaster\b", name, re.I) or len(re.findall(r"\bBachelor\b", name, re.I)) > 1 for name in names):
+        notes.append("The catalog includes combined degrees and bachelor/master pathways. Counts describe collected title entries, not a verified number of standalone undergraduate degrees.")
+    if any(">" in name or re.search(r"Science\s+Bachelor\b", name, re.I) for name in names):
+        notes.append("Some titles retain extraction artifacts or possibly concatenated degree names. Names are preserved as source text; review the original catalog before using them as verified program names.")
+    return list(dict.fromkeys(notes))
+
+
 def _identity(name, campus):
     known = SCHOOLS.get(name)
     if known and " ".join(campus.casefold().split()) == CANONICAL_CAMPUSES[known[0]].casefold():
@@ -120,6 +166,7 @@ def import_records(records):
             name, campus = record["university_name"].strip(), record["campus_location"].strip()
             school_id, short, city, sector, color = _identity(name, campus)
             evidence = {key: record.get(key, []) for key in (*EVIDENCE_FIELDS, "source_notes", "errors", "missing_fields")}
+            evidence["source_notes"] = collection_notes(record)
             sources = record.get("sources", [])
             official = next((safe_url(s.get("final_url") or s.get("requested_url")) for s in sources
                              if safe_url(s.get("final_url") or s.get("requested_url"))), None)
@@ -181,9 +228,10 @@ def init_db():
              source["pages"][0]["url"], json.dumps([{"requested_url": p["url"], "status": "configured"} for p in source["pages"]])))
     connection.commit()
     # Start immediately with the collected evidence. No external network requests.
-    sample = ROOT / "data/pup/unimatch_ph_raw_data.json"
-    if sample.exists():
-        import_records(json.loads(sample.read_text()))
+    for folder in ("pup", "dlsu"):
+        sample = ROOT / "data" / folder / "unimatch_ph_raw_data.json"
+        if sample.exists():
+            import_records(json.loads(sample.read_text()))
 
 
 @click.command("import-data")

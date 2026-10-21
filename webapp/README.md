@@ -7,7 +7,7 @@ collected evidence without pretending it is complete or verified.
 ## What works
 
 - Explore university profiles and filter by name, program keyword, city or sector.
-- Search 55 collected PUP program entries, filter by browsing topic or university,
+- Search 312 indexed PUP/DLSU title entries, filter by browsing topic or university,
   and page through results.
 - Open university details, source links, program lists, admissions requirements,
   tuition evidence, application notices and collection notes.
@@ -79,7 +79,8 @@ rendered data is escaped, and imported clickable URLs must use HTTPS. The app ha
 no public file-upload endpoint or write API.
 
 On the first startup, the database is initialized from
-`config/universities.json` and `data/pup/unimatch_ph_raw_data.json`. Later startups
+`config/universities.json`, `data/pup/unimatch_ph_raw_data.json`, and the uploaded
+`data/dlsu/unimatch_ph_raw_data.json`. Later startups
 reuse the database; they do not overwrite imported work or fetch external pages.
 Use the import command below to update it. Back up `instance/unimatch.sqlite3`
 before making changes you need to retain.
@@ -137,7 +138,14 @@ its page mixes AY 2026–2027 with eligibility text referring to AY 2024–2025.
 interface preserves these statements and the conflict instead of declaring a
 verified current status.
 
-The other three institutions have curated directory identities and configured
+DLSU's user-supplied export contributes 258 raw rows, indexed as 257 titles after
+one case-only duplicate is collapsed. Its sources use `old.dlsu.edu.ph`, include
+older academic-year references, and contain two fee references without numeric
+amounts. Its title entries include combined degrees, campus pathways and some
+scraping artifacts. The site retains these as unverified evidence with review
+notes; see [the DLSU dataset guide](../data/dlsu/README.md).
+
+UP Diliman and UST have curated directory identities and configured
 source links, not collected admissions datasets. A zero collected-program count
 does not mean a university offers no programs. Counts measure collection coverage,
 not university quality or completeness. The program listing's applicability to a

@@ -4,7 +4,7 @@ from pathlib import Path
 
 from flask import Flask, jsonify, render_template, request
 
-from .database import close_db, get_db, import_data_command, init_db, safe_url
+from .database import close_db, get_db, import_data_command, init_db, safe_url, tuition_amount_count
 
 
 def create_app(test_config=None):
@@ -42,6 +42,7 @@ def create_app(test_config=None):
         else:
             item["source_notes"] = evidence.get("source_notes", [])
         item["tuition_evidence_count"] = len(evidence.get("tuition_estimates", []))
+        item["tuition_amount_count"] = tuition_amount_count(evidence.get("tuition_estimates", []))
         return item
 
     school_select = """SELECT u.*, (SELECT COUNT(*) FROM programs p WHERE p.university_id = u.id) AS program_count
